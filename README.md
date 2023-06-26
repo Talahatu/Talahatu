@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-😀🍆💧💧🥵🥵🌊🌊🎆🎇✨✨😄🥱😴😴
-
-![alt text](https://github.com/Talahatu/Talahatu/blob/main/img/pengi.jpg?raw=true)
-
 <!--
 **Talahatu/Talahatu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
