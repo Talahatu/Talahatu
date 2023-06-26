@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Moi wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Talahatu)](https://github.com/anuraghazra/github-readme-stats)
-[![Moi GitHub stats](https://github-readme-stats.vercel.app/api?username=Talahatu&show_icons=true&theme=radical)](https://github.com/Talahatu/github-readme-stats)  
+
+[![Moi GitHub stats](https://github-readme-stats.vercel.app/api?username=Talahatu&show_icons=true&theme=radical&hide_rank=true)](https://github.com/Talahatu/github-readme-stats)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talahatu&size_weight=0.5&count_weight=0.5&theme=radical&layout=compact)
 <!--
 **Talahatu/Talahatu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
