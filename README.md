@@ -4,8 +4,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Talahatu&show_icons=true&theme=radical&rank_icon=github"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talahatu&size_weight=0.5&count_weight=0.5&theme=radical&layout=compact"/>
 </p>
-
-![](https://komarev.com/ghpvc/?username=Talahatu)
+<img height="180em" src="https://profile-counter.glitch.me/Talahatu/count.svg"/>
 
 
 
