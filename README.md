@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talahatu&size_weight=0.5&count_weight=0.5&theme=radical&layout=compact"/>
 </p>
 <img height="180em" src="https://profile-counter.glitch.me/Talahatu/count.svg"/>
-
+![Visitor Count](https://profile-counter.glitch.me/Talahatu/count.svg)
 
 
 ![Snake animation](https://github.com/Talahatu/Talahatu/blob/output/github-contribution-grid-snake.svg)
