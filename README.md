@@ -5,6 +5,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talahatu&size_weight=0.5&count_weight=0.5&theme=radical&layout=compact"/>
 </p>
 
+![](https://komarev.com/ghpvc/?username=Talahatu)
+
+
+
 ![Snake animation](https://github.com/Talahatu/Talahatu/blob/output/github-contribution-grid-snake.svg)
 <!--
 **Talahatu/Talahatu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
