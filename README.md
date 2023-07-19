@@ -7,10 +7,6 @@
 <p align="center">
 <!--   <img height="80em" src="https://profile-counter.glitch.me/Talahatu/count.svg"/> -->
 </p>
-
-
-
-![snake animation](https://github.com/Talahatu/Talahatu/blob/output/github-contribution-grid-snake2.svg)
 <!--
 **Talahatu/Talahatu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
