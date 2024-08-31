@@ -15,4 +15,4 @@ Striving to learn more about Front-End & Back-End development!
   <img height="300em" src="https://streak-stats.demolab.com/?user=Talahatu&theme=radical"/>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Talahatu)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Talahatu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
