@@ -1,5 +1,5 @@
-### Hi there 👋, Michael Talahatu here!
-================================  
+<h1>Hi there 👋, Michael Talahatu here!</h1>
+
 Striving to learn more about Front-End & Back-End development!
 --------------------------------  
 * 🌍  I'm based in Indonesia
