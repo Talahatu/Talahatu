@@ -1,7 +1,7 @@
 ### Hi there 👋, Michael Talahatu here!
-====================================
+====================================  
 Striving to learn more about Front-End & Back-End development!
---------------------------------
+--------------------------------  
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [michael.michaeltalahatu@gmail.com](mailto:michael.michaeltalahatu@gmail.com)
 * 🧠  Currently learning React + NextJS and Django
