@@ -1,10 +1,10 @@
 <h1>Hi there 👋, Michael Talahatu here!</h1>
 
-Striving to learn more about Front-End & Back-End development!
+Striving to learn more about Fullstack & Web Development!
 --------------------------------  
-* 🌍  I'm based in Indonesia
+* 🌍  I'm based in Indonesia, East Java, Surabaya
 * ✉️  You can contact me at [michael.michaeltalahatu@gmail.com](mailto:michael.michaeltalahatu@gmail.com)
-* 🧠  Currently learning React + NextJS and Django
+* 🧠  Currently learning React + NextJS and GoLang
 * 🤝  I'm open to collaborating on Website/Mobile App Projects
 
 <p align="center">
