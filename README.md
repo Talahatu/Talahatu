@@ -4,7 +4,7 @@ Striving to learn more about Fullstack & Web Development!
 --------------------------------  
 * 🌍  I'm based in Indonesia, East Java, Surabaya
 * ✉️  You can contact me at [michael.michaeltalahatu@gmail.com](mailto:michael.michaeltalahatu@gmail.com)
-* 🧠  Currently learning React + NextJS and GoLang
+* 🧠  Currently learning React + NextJS and VB.NET
 * 🤝  I'm open to collaborating on Website/Mobile App Projects
 
 <p align="center">
