@@ -5,7 +5,7 @@ Striving to learn more about Fullstack & Web Development!
 * 🌍  I'm based in Indonesia, East Java, Surabaya
 * ✉️  You can contact me at [michael.michaeltalahatu@gmail.com](mailto:michael.michaeltalahatu@gmail.com)
 * 🧠  Currently learning React + NextJS and VB.NET
-* 🤝  I'm open to collaborating on Website/Mobile App Projects
+* 🤝  I'm open to collaborating on Website/Mobile App/Desktop Projects
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Talahatu&show_icons=true&theme=radical&rank_icon=github"/>
